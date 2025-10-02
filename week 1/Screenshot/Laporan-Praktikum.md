@@ -16,7 +16,7 @@ Contoh: Struktur data adalah cara untuk menyimpan dan mengorganisir data dalam k
 
 ## 4. Guided
 ### 4.1 Guided 1
-![](screenshot/guided1.png)
+![alt text](image.png)
 
 Program C++ tersebut meminta pengguna memasukkan total belanja, lalu memeriksa apakah jumlahnya mencapai Rp30.000 atau lebih; jika ya, program menghitung diskon 10% dari total belanja dan menampilkan besarnya diskon beserta pesan “orang kaya lu bujang”, sedangkan jika jumlahnya kurang dari Rp30.000 program menetapkan diskon nol dan menampilkan pesan “maaf kamu tidak punya uang, belanja lagi ya bujang”, sehingga kode ini pada dasarnya menerapkan percabangan if-else sederhana untuk menentukan pemberian diskon.
 
